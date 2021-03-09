@@ -1,0 +1,9 @@
+{
+  "Client": {
+    "ClientId": "",
+    "ClientSecret": "",
+    "ProjectKey": "",
+    "AuthorizationBaseAddress": "",
+    "ApiBaseAddress": ""
+  }
+}
