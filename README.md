@@ -6,7 +6,7 @@ Code snippets for testing out various Commercetools features.
 
 ## Setup
 * Create Commercetools project
-* `cp training/appsettings.test.json.sample training/appsettings.test.json`
+* `cp Training/appsettings.test.json.sample Training/appsettings.test.json`
 * Populate appsettings.test.json
 * `dotnet restore`
 
